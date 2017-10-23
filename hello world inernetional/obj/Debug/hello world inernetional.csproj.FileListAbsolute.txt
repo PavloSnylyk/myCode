@@ -4,3 +4,9 @@ c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\h
 c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\bin\Debug\hello world inernetional.pdb
 c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\obj\Debug\hello world inernetional.exe
 c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\obj\Debug\hello world inernetional.pdb
+C:\Users\Оля\Desktop\firstProgram\hello world inernetional\bin\Debug\hello world inernetional.exe.config
+C:\Users\Оля\Desktop\firstProgram\hello world inernetional\obj\Debug\hello world inernetional.exe
+C:\Users\Оля\Desktop\firstProgram\hello world inernetional\obj\Debug\hello world inernetional.pdb
+C:\Users\Оля\Desktop\firstProgram\hello world inernetional\bin\Debug\hello world inernetional.exe
+C:\Users\Оля\Desktop\firstProgram\hello world inernetional\bin\Debug\hello world inernetional.pdb
+C:\Users\Оля\Desktop\firstProgram\hello world inernetional\obj\Debug\hello world inernetional.csprojResolveAssemblyReference.cache

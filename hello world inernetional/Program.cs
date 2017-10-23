@@ -17,6 +17,8 @@ namespace hello_world_inernetional
             }
             Console.ReadLine();
 
+            Console.WriteLine("First commit done");    
+
         }
     }
 }
