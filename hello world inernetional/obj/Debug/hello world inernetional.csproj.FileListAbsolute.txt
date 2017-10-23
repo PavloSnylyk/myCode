@@ -1,0 +1,6 @@
+c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\bin\Debug\hello world inernetional.exe.config
+c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\obj\Debug\hello world inernetional.csprojResolveAssemblyReference.cache
+c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\bin\Debug\hello world inernetional.exe
+c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\bin\Debug\hello world inernetional.pdb
+c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\obj\Debug\hello world inernetional.exe
+c:\users\оля\documents\visual studio 2015\Projects\hello world inernetional\hello world inernetional\obj\Debug\hello world inernetional.pdb
